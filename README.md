@@ -23,5 +23,3 @@ Se realizó una comparación entre las interacciones de los usuarios con las red
 
 Y la evolución de las polaridades de las reacciones de estas.
 ![image](https://github.com/user-attachments/assets/8762cf55-604a-4b32-bf95-d83f64fb7ef7)
-
-
